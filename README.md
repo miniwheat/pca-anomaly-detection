@@ -7,4 +7,4 @@ This project demonstrates the application of an Unsupervised Learning technique,
 # Repository Contents  
 
 Final Project.ipynb - jupyter notebook of full code with discussion and commentary of various steps  
-Final Project.html - full code and discussion but in html format
+Final Project.html - full code and discussion but in html format - directly viewable **[here]**(https://htmlpreview.github.io/?https://github.com/miniwheat/pca-anomaly-detection/blob/main/DTSA%205510%20Final%20Project.html)
